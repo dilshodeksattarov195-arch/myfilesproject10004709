@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productctringify",
+        "uuid": 38707980,
+        "checksum": "16209"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
